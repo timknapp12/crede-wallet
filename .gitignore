@@ -10,6 +10,7 @@ npm-debug.*
 *.orig.*
 web-build/
 .vscode/
+wallet-react-native---prod-e8f2e9fc230a.json
 
 # macOS
 .DS_Store
