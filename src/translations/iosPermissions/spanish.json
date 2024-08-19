@@ -1,0 +1,6 @@
+{
+  "NSCameraUsageDescription": "Permitir el acceso a su cámara le permitirá escanear códigos QR para obtener direcciones de billetera.",
+  "NSPhotoLibraryUsageDescription": "Permitir el acceso le permite seleccionar una foto para mostrar en su perfil",
+  "NSFaceIDUsageDescription": "Usamos Face ID para mejorar la seguridad de su cuenta y asegurar que solo usted pueda acceder a su información personal. Esto le permite iniciar sesión de manera segura y autenticar transacciones con su rostro. Sus datos faciales se cifran y almacenan de forma segura en su dispositivo, y nunca tenemos acceso a ellos. Su privacidad y seguridad son nuestras máximas prioridades",
+  "NSUserTrackingUsageDescription": "Usamos el seguimiento para corregir errores y mejorar su experiencia. Nunca venderemos su información personal ni le mostraremos anuncios."
+}

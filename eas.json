@@ -1,0 +1,69 @@
+{
+  "cli": {
+    "version": ">= 3.14.0",
+    "promptToConfigurePushNotifications": false
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      // "releaseChannel": "development",
+      "channel": "development",
+      "android": {
+        "buildType": "apk"
+      },
+      "distribution": "internal",
+      "env": {
+        "DEPLOY_ENVIRONMENT": "development"
+      },
+      "cache": {
+        "key": "development_key3"
+      }
+    },
+    "development-simulator": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "ios": {
+        "simulator": true
+      }
+    },
+    "staging": {
+      // "releaseChannel": "staging",
+      "channel": "expo-staging",
+      "android": {
+        "buildType": "apk",
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
+      },
+      "distribution": "internal",
+      "env": {
+        "DEPLOY_ENVIRONMENT": "staging"
+      }
+    },
+    "production": {
+      // "releaseChannel": "production",
+      "channel": "expo-production",
+      "android": {
+        "image": "latest"
+      },
+      "ios": {
+        "image": "latest"
+      },
+      "env": {
+        "DEPLOY_ENVIRONMENT": "production"
+      }
+    }
+  },
+  "submit": {
+    "production": {
+      "android": {
+        "serviceAccountKeyPath": "./wallet-react-native---prod-e8f2e9fc230a.json",
+        "track": "production"
+      },
+      "ios": {
+        "ascAppId": "6480134252"
+      }
+    }
+  }
+}

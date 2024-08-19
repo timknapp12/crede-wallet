@@ -1,0 +1,6 @@
+{
+  "NSCameraUsageDescription": "Allowing access to your camera will enable you to scan QR codes to obtain wallet addresses.",
+  "NSPhotoLibraryUsageDescription": "Allowing access lets you select a picture for display in your profile",
+  "NSFaceIDUsageDescription": "We use Face ID to enhance the security of your account and ensure that only you can access your personal information. This allows you to securely log in and authenticate transactions using your face. Your facial data is encrypted and stored securely on your device, and we never have access to it. Your privacy and security are our top priorities",
+  "NSUserTrackingUsageDescription": "We use Tracking to fix bugs and improve your experience. We will never sell your personal information or show you ads."
+}

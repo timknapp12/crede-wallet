@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>235248502177-uuvch4t1tplcoumlffme0qvqss53gmra.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.235248502177-uuvch4t1tplcoumlffme0qvqss53gmra</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>235248502177-1e2jsotkc027ch5m041omuegkbjm4qdv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDnv3dpFcKfyFO28DJdr91QWkWjYNYNOTM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235248502177</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nerdUnited.credeWallet</string>
+	<key>PROJECT_ID</key>
+	<string>wallet-react-native---prod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wallet-react-native---prod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235248502177:ios:e603e06446d8633ccfb7e0</string>
+</dict>
+</plist>

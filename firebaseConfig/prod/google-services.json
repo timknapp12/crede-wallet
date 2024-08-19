@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "235248502177",
+    "project_id": "wallet-react-native---prod",
+    "storage_bucket": "wallet-react-native---prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235248502177:android:26b608b340a15a06cfb7e0",
+        "android_client_info": {
+          "package_name": "com.nerdUnited.credeWallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235248502177-je4n8f5cc2fdskskib9o7ecectehgbn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nerdUnited.credeWallet",
+            "certificate_hash": "0568ed4142b3be099bd23c148cde2c0069bdfe4a"
+          }
+        },
+        {
+          "client_id": "235248502177-urj9ek7s8pjnksqi0imu9f43a21ag0a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7-Ejo4zCE49G7QHscz_WLk9A2A6tveeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235248502177-urj9ek7s8pjnksqi0imu9f43a21ag0a1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235248502177-uuvch4t1tplcoumlffme0qvqss53gmra.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nerdUnited.credeWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

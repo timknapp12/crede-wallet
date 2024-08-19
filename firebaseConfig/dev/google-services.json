@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "846331006567",
+    "project_id": "dev-wallet-recovery",
+    "storage_bucket": "dev-wallet-recovery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846331006567:android:ceda2051c665aac0cacec2",
+        "android_client_info": {
+          "package_name": "com.nerdUnited.devWalletRecovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846331006567-0tcp4ips7fgjtvqsu9v4jn2gmip7o9v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nerdUnited.devWalletRecovery",
+            "certificate_hash": "5198417711d705b1a0cebe65d15bdcb7f0e9de47"
+          }
+        },
+        {
+          "client_id": "846331006567-hbsap6n5jdu8g85mf3f4khli1icbqe55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxMF1Jw9y4OVcuDHz-ox8U0x-2tNTPR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846331006567-0mhm1dr0c6645gnpq5b6b63bqbcelpps.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "846331006567-ke0mlu9opabq5n5kuc10gfp3hsb6vrgf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nerdunited.devWalletRecovery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

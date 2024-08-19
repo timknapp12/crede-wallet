@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+  </head>
+  <body">
+    <h1 style="font-size: 50px; font-family: Helvetica Neue; font-weight: bold;">
+      Crede Recovery PDF
+    </h1>
+    <h4>This recovery guide is intended to help you restore your Crede Wallet on a new device. We strongly recommend storing this PDF on a device that is NOT connected to the internet (e.g. separate hard drive or USB drive). The hash below is NOT the private key to your wallet. It is a key that when paired with other authentication methods in our recovery process, restores your private key on your new device.</h4>
+    <h4>Should you lose your device and need to regain access, follow the instructions below</h4>
+    <ol>
+      <li>Upon re-downloading the app, log in to your account with your credentials</li>
+      <li>After successfully logging in to your account, it will recognize a new device and proceed with the wallet recovery option</li>
+      <li>Select “Recovery PDF” and when prompted, copy and paste the recovery key below into the box provided. Ensure there are no accidental blank spaces at the end of the hash when pasting it</li>
+      <li>After entering the correct recovery hash, the app will prompt you to set a new PIN to transact with. Upon finalizing a new PIN, your wallet has successfully been recovered</li>
+    </ol>
+    <h3 style="font-weight: bold;">Recovery Key</h3>
+    <h3 style="overflow-wrap: break-word;">${shareString}</h3>
+  </body>
+  <style>
+    @page  {
+      margin: 0;
+      size: letter; /*or width then height 150mm 50mm*/
+    }
+  </style>
+</html>

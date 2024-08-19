@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1092144475052",
+    "project_id": "staging-wallet-recovery",
+    "storage_bucket": "staging-wallet-recovery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092144475052:android:3a8714e99cc96ee24b2809",
+        "android_client_info": {
+          "package_name": "com.nerdUnited.stagingWalletRecovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092144475052-rnricglovi5td6kd2m20pss8vn91omqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nerdUnited.stagingWalletRecovery",
+            "certificate_hash": "a70818468d9e6e1b13e31f57e1ba4b0a738925f7"
+          }
+        },
+        {
+          "client_id": "1092144475052-0ujjo2508c9q391o6seujgkq030j4q3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiACM2g069sOb-w_bPtZAst5xjdnlMHQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092144475052-0ujjo2508c9q391o6seujgkq030j4q3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1092144475052-ec3u6eg8tqro6e1234ei3689mso3tcjf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nerdUnited.stagingWalletRecovery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
